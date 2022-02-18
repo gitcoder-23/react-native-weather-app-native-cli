@@ -1,6 +1,7 @@
 {
   "name": "rnweatherapp",
   "you-tut": "https://youtu.be/9XarYuINB_c",
+  "setup": "https://kashanhaider.com/set-up-android-environment-variables-on-macos/",
   "version": "0.0.1",
   "private": true,
   "scripts": {
